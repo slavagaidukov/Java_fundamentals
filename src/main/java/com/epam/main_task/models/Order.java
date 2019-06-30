@@ -45,7 +45,7 @@ public class Order {
     }
 
     public String toString() {
-        orderDescription = "***********************" + "\nЗаказ: " + numberOfOrder + "\nКлиент: " + userID;
+        orderDescription = "***************************" + "\nЗаказ: " + numberOfOrder + "\nКлиент: " + userID;
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < this.pizza.length; i++) {
             pizzaDescription = "\nНазвание: " + this.pizza[i].getPizzaName() + "\n" +
@@ -61,7 +61,8 @@ public class Order {
                     "---------------------------";
             sb.append(pizzaDescription);
         }
-        sb.append("\nОбщая сумма: " + getSumOfOrder() + " EUR");
+        sb.append("\nОбщая сумма: " + getSumOfOrder() + " EUR" +
+                "\n***************************");
         System.out.println(getLocalTime());
         return orderDescription + sb.toString();
     }

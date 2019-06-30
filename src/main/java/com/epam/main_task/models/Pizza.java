@@ -131,12 +131,12 @@ public class Pizza {
         return amount;
     }
 
-    public String addIngredient(int numberOfIngredient) {
+    public String addIngredient(int numberOfIngredient, String ingredient) {
         Scan ingredientsScan = new Scan();
         String ingred = "";
         boolean flagOfAddIngredient = false;
         while (!flagOfAddIngredient) {
-            ingred = ingredientsScan.scanOfIngredients();
+            ingred = ingredient;
             if (!Arrays.asList(ingredients).contains(ingred)) {
                 this.ingredients[numberOfIngredient] = ingred;
                 flagOfAddIngredient = true;

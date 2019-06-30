@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="327fbb67-43ff-4881-ad89-4996cb1e3dcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epam/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epam/main_task/messages/MessageKeys.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epam/main_task/messages/PizzaMessages.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epam/main_task/models/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epam/main_task/models/Pizza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epam/main_task/program/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epam/main_task/scan/Scan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epam/optional_one/ReverseOrderOfArguments.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epam/optional_one/SumOfArguments.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epam/optional_three/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epam/optional_three/MonthProcessing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/epam/optional_three/Scan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/epam/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/main_task/program/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/main_task/program/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,14 +55,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="44" />
-          <entry key="java" value="10832" />
+          <entry key="java" value="11097" />
           <entry key="properties" value="428" />
           <entry key="regexp" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10832" />
+          <entry key="JAVA" value="11097" />
           <entry key="PLAIN_TEXT" value="44" />
           <entry key="Properties" value="428" />
           <entry key="RegExp" value="12" />
@@ -96,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Pizza.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+            <state relative-caret-position="221">
+              <caret line="138" column="21" lean-forward="true" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/main_task/scan/Scan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-228">
-              <caret line="160" column="48" selection-start-line="160" selection-start-column="48" selection-end-line="160" selection-end-column="48" />
+            <state relative-caret-position="81">
+              <caret line="112" column="35" lean-forward="true" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/main_task/program/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            <state relative-caret-position="68">
+              <caret line="67" column="54" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,11 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Order.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="1">
+              <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
@@ -154,11 +133,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="204">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -187,7 +166,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -207,13 +186,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/epam/main_task/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/main_task/Pizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/main_task/Scan.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/main_task/program/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Order.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/main_task/messages/PizzaMessages.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/main_task/messages/MessageKeys.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Pizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/main_task/scan/Scan.java" />
         <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/main_task/program/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Order.java" />
       </list>
     </option>
   </component>
@@ -279,11 +258,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561902740074" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561906890041" />
     <property name="last.edited.regexp" value="ss" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15281174" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -412,6 +392,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30786687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -423,7 +404,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.6122449" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="1.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -446,6 +427,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/main" />
+      <path value="$PROJECT_DIR$/src/main/java/com/epam" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/App.java">
@@ -530,27 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/main_task/program/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/main_task/messages/MessageKeys.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -558,10 +524,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Pizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        <state relative-caret-position="221">
+          <caret line="138" column="21" lean-forward="true" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -570,18 +543,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/main_task/scan/Scan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="160" column="48" selection-start-line="160" selection-start-column="48" selection-end-line="160" selection-end-column="48" />
+        <state relative-caret-position="81">
+          <caret line="112" column="35" lean-forward="true" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/main_task/program/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="68">
+          <caret line="67" column="54" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/main_task/models/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
