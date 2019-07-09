@@ -36,8 +36,8 @@ public class Car {
         this.price = price;
         this.maxSpeed = maxSpeed;
     }
-
-    public void getInformation() {  // Output of the information about the car
+    // Output of the information about the car
+    public void getInformation() {
         System.out.println(getId() + " " + getModel() + " " + getFuelConsumption() + " " + getPrice() + " " + getMaxSpeed());
     }
 }

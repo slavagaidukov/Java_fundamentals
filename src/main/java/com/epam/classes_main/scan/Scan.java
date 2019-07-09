@@ -3,7 +3,7 @@ package com.epam.classes_main.scan;
 import java.util.Scanner;
 
 public class Scan {
-    // The request of the arguments of speed
+    // The request of the speed arguments
     public int scanOfSpeed(String minOrMaxSpeed) {
         boolean flagOfScan = false;
         int speed = 0;
