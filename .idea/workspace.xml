@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="327fbb67-43ff-4881-ad89-4996cb1e3dcb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/classes_main/program/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/classes_main/program/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/classes_main/scan/Scan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/classes_main/scan/Scan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/Sedan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/Sedan.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,13 +44,13 @@
           <entry key="data" value="2" />
           <entry key="info" value="1" />
           <entry key="input" value="1" />
-          <entry key="java" value="45" />
+          <entry key="java" value="46" />
           <entry key="properties" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="45" />
+          <entry key="JAVA" value="46" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="6" />
         </counts>
@@ -63,14 +60,14 @@
           <entry key="data" value="6" />
           <entry key="dummy" value="44" />
           <entry key="info" value="3" />
-          <entry key="java" value="16651" />
+          <entry key="java" value="16652" />
           <entry key="properties" value="428" />
           <entry key="regexp" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16651" />
+          <entry key="JAVA" value="16652" />
           <entry key="PLAIN_TEXT" value="53" />
           <entry key="Properties" value="428" />
           <entry key="RegExp" value="12" />
@@ -128,11 +125,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/Sedan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-86">
-              <caret line="40" column="127" selection-start-line="40" selection-start-column="127" selection-end-line="40" selection-end-column="127" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/TaxiPark.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-187">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -196,10 +202,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/epam/classes_main/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/classes_optional/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/Minivan.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/Sedan.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/classes_main/program/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/classes_main/scan/Scan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/TaxiPark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/Sedan.java" />
       </list>
     </option>
   </component>
@@ -256,6 +263,36 @@
               <item name="epam" type="462c0819:PsiDirectoryNode" />
               <item name="classes_main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+              <item name="classes_main" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+              <item name="classes_main" type="462c0819:PsiDirectoryNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+              <item name="classes_main" type="462c0819:PsiDirectoryNode" />
+              <item name="scan" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -265,7 +302,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562518887302" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562697913807" />
     <property name="last.edited.regexp" value="ss" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15281174" />
@@ -612,16 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/classes_main/program/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="36" column="93" selection-start-line="36" selection-start-column="93" selection-end-line="36" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="438">
@@ -643,10 +670,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/classes_main/program/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="36" column="93" selection-start-line="36" selection-start-column="93" selection-end-line="36" selection-end-column="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/Sedan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="40" column="127" selection-start-line="40" selection-start-column="127" selection-end-line="40" selection-end-column="127" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/classes_main/models/TaxiPark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

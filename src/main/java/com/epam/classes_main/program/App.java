@@ -3,24 +3,13 @@ package com.epam.classes_main.program;
 import com.epam.classes_main.models.Car;
 import com.epam.classes_main.models.Minivan;
 import com.epam.classes_main.models.Sedan;
+import com.epam.classes_main.models.TaxiPark;
 
 import java.io.*;
 import java.util.ArrayList;
 
 public class App {
     public static void main(String[] args) {
-      /*  try (
-                FileReader reader = new FileReader("data")) {
-            int c;
-            while ((c = reader.read()) != -1) {
-
-                System.out.print((char) c);
-            }
-        } catch (IOException ex) {
-
-            System.out.println(ex.getMessage());
-        }
-*/
 
         // Adding auto
         Car car1 = new Sedan(1, "Skoda Rapid", 5.0, 12000, 200);
@@ -29,7 +18,7 @@ public class App {
         garage.add(car1);
         garage.add(car2);
         // Creating a garage
-        Sedan.TaxiPark taxiPark = new Sedan.TaxiPark(garage);
+        TaxiPark taxiPark = new TaxiPark(garage);
         // The method calculates the price of the garage
         taxiPark.garagePriceCalculation();
         // The method sortes and outputs information about cars by fuel value
